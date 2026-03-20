@@ -50,6 +50,27 @@ feedme/
 - 覆盖所有核心功能
 - 测试VIP优先级、并发处理等
 
+## 🎬 系统演示
+
+### 界面预览
+
+系统提供了直观的可视化界面，让您轻松管理订单和机器人：
+
+![系统界面截图](mcdonalds-bot-frontend/resource/example.png)
+
+### 功能演示视频
+
+想要快速了解系统如何工作？观看我们的演示视频，看看VIP订单优先处理、机器人自动分配等功能的实际运行效果：
+
+[📹 点击观看完整演示视频](mcdonalds-bot-frontend/resource/录频.mp4)
+
+**视频展示内容：**
+- ✨ 创建普通订单和VIP订单
+- 🤖 添加和管理机器人
+- ⚡ VIP订单自动优先处理
+- 🔄 实时状态更新
+- 📊 系统统计信息
+
 ## 🚀 Quick Start（零基础也能运行）
 
 ### 前置要求
@@ -416,4 +437,4 @@ curl http://localhost:8080/api/stats
 
 ---
 
-**祝你使用愉快！Good luck with your interview! 🚀**
+**祝你使用愉快！Good luck ! 🚀**
